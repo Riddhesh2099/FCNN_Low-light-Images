@@ -16,4 +16,4 @@ Run the driver notebook
 Saving Frequency With the Number of total epoch till that point as a folder name.
 7. test_Sony will save all output of test data in Result/final. Images names will contain epoch
 number of each saved epoch at saving frequency.
-Further Instructions are in NNFL_Driver_Colab.ipynb file.
+Further Instructions are in NNFL_Driver_Colab.ipynb file
