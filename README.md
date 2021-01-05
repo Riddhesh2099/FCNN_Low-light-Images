@@ -1,7 +1,7 @@
 # FCNN_Low-light-Images
 Fully Convolutional Network which allows the user to extract data and get a well-lit output of an input low-light dark image
 Run the driver notebook
-<list>
+<ol>
 <li>1. System Requirements
 	<list>
 	<li><t>&ensp;&ensp;● TensorFlow 1.15
@@ -19,5 +19,5 @@ Run the driver notebook
 <li>5. On Colab we can’t get more than 100 images for training.
 <li>6. Train_Sony.py will keep saving the trained model in output in Results_Sony Folder as given saving Frequency With the Number of total epoch till that point as a folder name.
 <li>7. test_Sony will save all output of test data in Result/final. Images names will contain epoch number of each saved epoch at saving frequency.
-</list>
+</ol>
 <b>Further Instructions are in NNFL_Driver_Colab.ipynb file
